@@ -22,7 +22,7 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: cadetblue;
     color: white;
 }
 body, html {
@@ -32,7 +32,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("20230919_082544.jpg");
 
     /* Set a specific height */
     height: 50%;
@@ -136,7 +136,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-    background-color: #04AA6D;
+    background-color: cadetblue;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -181,7 +181,7 @@ input[type=submit]:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: cadetblue;
     color: white;
     text-align: center;
 }
